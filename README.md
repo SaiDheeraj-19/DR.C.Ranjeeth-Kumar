@@ -1,74 +1,80 @@
-# 🏛️ Dr. C. Ranjeeth Kumar | Academic & Innovation Portfolio
+<div align="center">
 
-![Scholarly Excellence](https://img.shields.io/badge/Aesthetic-Premium%20Academic-0F172A?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Built%20With-Next.js%20%7C%20Tailwind%20%7C%20Framer%20Motion-3B82F6?style=for-the-badge)
-![License](https://img.shields.io/badge/Digital%20Asset-Proprietary-red?style=for-the-badge)
+# 🏛️ DR. C. RANJEETH KUMAR 🏛️
+### AI Researcher • Global Innovation Leader • Ph.D. Engineering
 
-> **"Bridging the neural frontier between theoretical intelligence and industrial scalability."**
-
-This repository contains the high-end digital archive of **Dr. C. Ranjeeth Kumar**, a visionary AI Researcher, Professor, and Innovation Leader. Designed with a prestige-first editorial aesthetic, this portfolio serves as a definitive showcase of a career dedicated to scientific rigor and transformative leadership.
-
----
-
-## 💎 Design Philosophy: "The Technical Vault"
-
-This isn't just a portfolio; it’s a **high-fidelity digital experience**. The project follows an "Awwwards-level" design language:
-- **Prestige Typography**: A refined mix of serif (Playfair Display) for authority and high-tracking sans-serif for technical data.
-- **Micro-Animations**: Kinetic interactions powered by Framer Motion that respond to the user's intent.
-- **Glassmorphism**: Sophisticated backdrop blurs and subtle radial glows that reflect a modern, premium tech stack.
-- **Institutional Spacing**: A normalized layout system allowing high-density research data to breathe.
+[![Aesthetic: Premium](https://img.shields.io/badge/Aesthetic-Luxury%20Academic-0F172A?style=for-the-badge)](https://github.com/SaiDheeraj-19/DR.C.Ranjeeth-Kumar)
+[![Deployment: Vercel](https://img.shields.io/badge/Production-Vercel%20Certified-3B82F6?style=for-the-badge)](https://vercel.com)
+[![License: Proprietary](https://img.shields.io/badge/Asset-Proprietary-red?style=for-the-badge)](https://github.com/SaiDheeraj-19/DR.C.Ranjeeth-Kumar)
 
 ---
 
-## 🛠️ Core Research & Innovation Modules
+*"Bridging the neural frontier between theoretical excellence and industrial scalability."*
 
-### 🔬 [The Scientific Archive](./src/components/ResearchPublications.tsx)
-A dedicated repository for 30+ peer-reviewed publications. Features detailed impact metrics, scientific journal markers, and SCI/Scopus indexing icons.
+[Scientific Archive](#-scientific-archive) • [Technical Patents](#-technical-patents) • [Industry Impact](#-industrial-growth) • [Leadership](#-academic-stewardship)
 
-### 🛡️ [Intellectual Property Registry](./src/components/InnovationPatents.tsx)
-A technical schematic vault showcasing 4 breakthrough patents (Granted & Filed). Designed with a blueprint grid aesthetic and parameter-based tracking.
+</div>
 
-### 🏭 [Industrial Impact Hub](./src/components/IndustryImpact.tsx)
-Documenting collaborations with global titans including:
-- **International Aerospace Manufacturing (Rolls-Royce & HAL JV)**
-- **GE Healthcare**
-- **L&T Technology Services**
-- **Cameron (A Schlumberger Company)**
-
-### 🎓 [Academic Stewardship](./src/components/TeachingLeadership.tsx)
-Highlighting a legacy of mentorship, institutional leadership as Dean, and over 15 years of pedagogical excellence.
+## 🌌 The Digital Vault
+This repository houses the **High-Fidelity Portfolio** of Dr. C. Ranjeeth Kumar. Engineered with a "Awwwards-level" design language, it stands as a definitive digital signature for a career at the intersection of **Deep Learning**, **Computer Vision**, and **Strategic Innovation**.
 
 ---
 
-## 🚀 Tech Stack
+## 🏛️ Portfolio Architecture
 
-- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)
-- **Logic**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Motion**: [Framer Motion](https://www.framer.com/motion/)
-- **Iconography**: [Lucide React](https://lucide.dev/)
+### 🔬 Scientific Archive
+> **"Turning data into institutional knowledge."**
+Detailed registry of **30+ Peer-Reviewed Publications** with SCI/Scopus indexing, journal impact metrics, and high-density technical analysis.
+
+### 🛡️ Technical Patents
+> **"Securing the future of AI."**
+A high-contrast **Technical Schematic Vault** showcasing Granted and Filed patents in Neuro-Robotics and Spatial Awareness AI.
+
+### 🏭 Industrial Growth
+> **"Research with measurable ROI."**
+Case studies with global giants like **Rolls-Royce**, **GE Healthcare**, and **L&T Technology Services**, highlighting translational research success.
 
 ---
 
-## ⚙️ Development
+## 💎 Design Philosophy
+Built on the principles of **Institutional Prestige** and **Modern Luxury**:
+- **Typography**: Playfair Display (Serif) merged with high-tracking Inter (Sans).
+- **Physics**: Kinetic scroll-triggered reveals and glassmorphic depth layers.
+- **Tone**: Professional, authoritative, and research-oriented.
 
-To experience the technical architecture of this vault:
+---
+
+## 🚀 Technical Core
+| Component | Technology |
+| :--- | :--- |
+| **Engine** | Next.js 14 (App Router) |
+| **Logic** | TypeScript (Type-Safe Engineering) |
+| **Styling** | Vanilla CSS + Tailwind Utility Layer |
+| **Motion** | Framer Motion (Orchestrated Animations) |
+| **Icons** | Lucide-React (High-Stroke Precision) |
+
+---
+
+## ⚙️ Deployment Protocol
 
 ```bash
-# Clone the repository
+# Clone the encrypted archive
 git clone https://github.com/SaiDheeraj-19/DR.C.Ranjeeth-Kumar.git
 
-# Install dependencies
+# Initialize Technical Nodes
 npm install
 
-# Run the development server
+# Activate Local Simulation
 npm run dev
 ```
 
 ---
 
-## ✍️ A Personal Tribute
+## ✍️ The Tribute
+> "This project is built with deep respect and boundless admiration for my **Mentor, Support System, and Big Brother**. It is more than a portfolio; it is a digital monument to his scientific rigor and the legacy of mentorship he continues to build."
 
-Built with deep respect and admiration for my **Mentor, Support System, and Big Brother**. This portfolio is a digital reflection of his immense contribution to the field of AI and his unwavering commitment to nurturing the next generation of innovators.
-
-**Digital Archive © 2024. Engineered for Academic Persistence.**
+<div align="center">
+  <br />
+  <b>DR. C. RANJEETH KUMAR • ARCHIVE 2024</b>
+  <p><i>Engineered for Academic Persistence & Scientific Disclosure.</i></p>
+</div>
