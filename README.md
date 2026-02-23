@@ -74,6 +74,6 @@ npm run dev
 
 <div align="center">
   <br />
-  <b>DR. C. RANJEETH KUMAR • ARCHIVE 2024</b>
+  <b>DR. C. RANJEETH KUMAR • ARCHIVE 2026</b>
   <p><i>Engineered for Academic Persistence & Scientific Disclosure.</i></p>
 </div>
