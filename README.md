@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏛️ Dr. C. Ranjeeth Kumar | Academic & Innovation Portfolio
 
-## Getting Started
+![Scholarly Excellence](https://img.shields.io/badge/Aesthetic-Premium%20Academic-0F172A?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Built%20With-Next.js%20%7C%20Tailwind%20%7C%20Framer%20Motion-3B82F6?style=for-the-badge)
+![License](https://img.shields.io/badge/Digital%20Asset-Proprietary-red?style=for-the-badge)
 
-First, run the development server:
+> **"Bridging the neural frontier between theoretical intelligence and industrial scalability."**
+
+This repository contains the high-end digital archive of **Dr. C. Ranjeeth Kumar**, a visionary AI Researcher, Professor, and Innovation Leader. Designed with a prestige-first editorial aesthetic, this portfolio serves as a definitive showcase of a career dedicated to scientific rigor and transformative leadership.
+
+---
+
+## 💎 Design Philosophy: "The Technical Vault"
+
+This isn't just a portfolio; it’s a **high-fidelity digital experience**. The project follows an "Awwwards-level" design language:
+- **Prestige Typography**: A refined mix of serif (Playfair Display) for authority and high-tracking sans-serif for technical data.
+- **Micro-Animations**: Kinetic interactions powered by Framer Motion that respond to the user's intent.
+- **Glassmorphism**: Sophisticated backdrop blurs and subtle radial glows that reflect a modern, premium tech stack.
+- **Institutional Spacing**: A normalized layout system allowing high-density research data to breathe.
+
+---
+
+## 🛠️ Core Research & Innovation Modules
+
+### 🔬 [The Scientific Archive](./src/components/ResearchPublications.tsx)
+A dedicated repository for 30+ peer-reviewed publications. Features detailed impact metrics, scientific journal markers, and SCI/Scopus indexing icons.
+
+### 🛡️ [Intellectual Property Registry](./src/components/InnovationPatents.tsx)
+A technical schematic vault showcasing 4 breakthrough patents (Granted & Filed). Designed with a blueprint grid aesthetic and parameter-based tracking.
+
+### 🏭 [Industrial Impact Hub](./src/components/IndustryImpact.tsx)
+Documenting collaborations with global titans including:
+- **International Aerospace Manufacturing (Rolls-Royce & HAL JV)**
+- **GE Healthcare**
+- **L&T Technology Services**
+- **Cameron (A Schlumberger Company)**
+
+### 🎓 [Academic Stewardship](./src/components/TeachingLeadership.tsx)
+Highlighting a legacy of mentorship, institutional leadership as Dean, and over 15 years of pedagogical excellence.
+
+---
+
+## 🚀 Tech Stack
+
+- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)
+- **Logic**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Motion**: [Framer Motion](https://www.framer.com/motion/)
+- **Iconography**: [Lucide React](https://lucide.dev/)
+
+---
+
+## ⚙️ Development
+
+To experience the technical architecture of this vault:
 
 ```bash
+# Clone the repository
+git clone https://github.com/SaiDheeraj-19/DR.C.Ranjeeth-Kumar.git
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✍️ A Personal Tribute
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Built with deep respect and admiration for my **Mentor, Support System, and Big Brother**. This portfolio is a digital reflection of his immense contribution to the field of AI and his unwavering commitment to nurturing the next generation of innovators.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Digital Archive © 2024. Engineered for Academic Persistence.**
