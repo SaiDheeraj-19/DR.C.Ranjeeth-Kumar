@@ -3,7 +3,6 @@
 # 🏛️ DR. C. RANJEETH KUMAR 🏛️
 ### AI Researcher • Global Innovation Leader • Ph.D. Engineering
 
-[![Aesthetic: Premium](https://img.shields.io/badge/Aesthetic-Luxury%20Academic-0F172A?style=for-the-badge)](https://github.com/SaiDheeraj-19/DR.C.Ranjeeth-Kumar)
 [![Deployment: Vercel](https://img.shields.io/badge/Production-Vercel%20Certified-3B82F6?style=for-the-badge)](https://vercel.com)
 [![License: Proprietary](https://img.shields.io/badge/Asset-Proprietary-red?style=for-the-badge)](https://github.com/SaiDheeraj-19/DR.C.Ranjeeth-Kumar)
 
