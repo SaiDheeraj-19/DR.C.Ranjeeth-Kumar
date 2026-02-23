@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   title: "DR. C. Ranjeeth Kumar | AI Researcher | Global Innovation Leader",
   description: "Advancing Artificial Intelligence for Education, Industry, and Society. Portfolio of a globally recognized AI Researcher, Professor, and Industry Consultant.",
   keywords: ["AI Research", "Professor", "Innovation Leader", "Consultant", "Deep Learning", "Computer Vision"],
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
