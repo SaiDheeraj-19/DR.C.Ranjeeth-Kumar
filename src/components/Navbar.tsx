@@ -20,8 +20,8 @@ export default function Navbar() {
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
             className={`fixed top-0 left-0 right-0 z-50 transition-all duration-700 ${scrolled
-                    ? "py-4"
-                    : "py-8"
+                ? "py-4"
+                : "py-8"
                 }`}
         >
             <div className="container mx-auto px-6 lg:px-12 max-w-7xl flex items-center justify-between">
@@ -35,8 +35,8 @@ export default function Navbar() {
                 </div>
 
                 <div className={`flex items-center gap-2 p-1 transition-all duration-700 rounded-full border ${scrolled
-                        ? "bg-white/80 backdrop-blur-xl border-light-divider shadow-[0_10px_40px_rgba(0,0,0,0.05)]"
-                        : "bg-transparent border-transparent"
+                    ? "bg-white/80 backdrop-blur-xl border-light-divider shadow-[0_10px_40px_rgba(0,0,0,0.05)]"
+                    : "bg-transparent border-transparent"
                     }`}>
                     <div className="hidden md:flex items-center px-4">
                         {[
@@ -44,7 +44,7 @@ export default function Navbar() {
                             { name: "Research", href: "#research" },
                             { name: "Impact", href: "#impact" },
                             { name: "Patents", href: "#patents" },
-                            { name: "Leadership", href: "#teaching" }
+                            { name: "Leadership", href: "#leadership" }
                         ].map((link) => (
                             <a
                                 key={link.name}
